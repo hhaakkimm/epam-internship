@@ -1,0 +1,11 @@
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\bin\Debug\netcoreapp3.0\Ex05.exe
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\bin\Debug\netcoreapp3.0\Ex05.deps.json
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\bin\Debug\netcoreapp3.0\Ex05.runtimeconfig.json
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\bin\Debug\netcoreapp3.0\Ex05.runtimeconfig.dev.json
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\bin\Debug\netcoreapp3.0\Ex05.dll
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\bin\Debug\netcoreapp3.0\Ex05.pdb
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\obj\Debug\netcoreapp3.0\Ex05.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\obj\Debug\netcoreapp3.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\obj\Debug\netcoreapp3.0\Ex05.AssemblyInfo.cs
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\obj\Debug\netcoreapp3.0\Ex05.dll
+C:\Users\abdul\Desktop\epam-internship\ALA01\Ex05\Ex05\obj\Debug\netcoreapp3.0\Ex05.pdb
